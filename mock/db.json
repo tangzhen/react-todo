@@ -1,0 +1,17 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "write a react tutorial",
+      "author": 1,
+      "status": "progress"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "ztang",
+      "password": "12345"
+    }
+  ]
+}
